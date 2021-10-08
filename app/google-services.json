@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680862230994",
+    "project_id": "houseseeker-a2bed",
+    "storage_bucket": "houseseeker-a2bed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680862230994:android:14d0e1bdd24064cdc6c00b",
+        "android_client_info": {
+          "package_name": "com.dekut.houseseeker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680862230994-hqi81agsv0nnbc9kpmc5te187qj5ut2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa1XglHx6jyVOikrebNxX2BPmL8MllVGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680862230994-hqi81agsv0nnbc9kpmc5te187qj5ut2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
