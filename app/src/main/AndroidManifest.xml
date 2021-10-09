@@ -10,12 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.HouseSeeker">
         <activity
-            android:name=".ui.TenantRegistrationActivity"
-            android:exported="true" />
-        <activity
-            android:name=".ui.LandlordRegistrationActivity"
-            android:exported="true" />
-        <activity
             android:name=".ui.LoginActivity"
             android:exported="true" />
         <activity
